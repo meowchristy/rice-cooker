@@ -11,6 +11,9 @@ This bot is currently not accessible to the public.
 Jennifer Chen - 
 [jjenncnn](https://github.com/jjenncnn)
 
+Christy Miao - 
+[meowchristy](https://github.com/meowchristy)
+
 ## Acknowledgments
 * [genshin.dev](https://genshin.dev/)
 * [Project Amber](https://ambr.top/en)
